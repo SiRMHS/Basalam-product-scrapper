@@ -1,4 +1,4 @@
-# Product Details Fetcher
+# Basalam Product Details Fetcher
 
 ## Description
 This Python script collects product details from the Basalam API. It takes a search keyword and the number of products to fetch, then retrieves detailed information about each product including pricing, photos, attributes, and categories. The collected data is saved into an Excel file for further use.
